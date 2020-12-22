@@ -6,9 +6,10 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
+  * [Live Url](#Live URL)
   * [Questions](#Questions)
   ## Installation
-  This app is [live on Heroku](https://notetaker-apps.herokuapp.com/)
+  This app is [live on Heroku](https://notetaker-apps.herokuapp.com/). 
   To use locally: run `npm install` to install all dependencies, then `node server.js`, and then open `http://localhost:8887` in your browser.
   
   ## Usage 
