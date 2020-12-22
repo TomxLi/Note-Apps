@@ -7,7 +7,7 @@ const fs = require("fs");
 const app = express();
 
 //initial port
-const port = 8887;
+const port = process.env.PORT || 8887;
 
 //Set up data parsing
 app.use(express.static('public'));
