@@ -6,7 +6,7 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
-  * [Live Url](#Live URL)
+  * [Live Url](#URL)
   * [Questions](#Questions)
   ## Installation
   This app is [live on Heroku](https://notetaker-apps.herokuapp.com/). 
